@@ -1,47 +1,22 @@
 ---
 layout: default
 ---
-# About Me
+## About Me
 
-I am a third-year master student in the Department of Computer Science and Technology at Tsinghua University, supervised by [Professor Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Before joining Tsinghua,
-I obtained my bachelor's degree in computer science and technology from School of Computer Science at Beijing University of Posts and Telecommunications.
+I am a third-year master student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018/index.html), supervised by [Professor Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Before joining Tsinghua,
+I obtained my bachelor's degree in computer science and technology from the [School of Computer Science](https://scs.bupt.edu.cn/) at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
 
 My research interests include human-computer interaction, ubiquitous computing, wearable sensing, affective computing and machine learning. I want to apply the above technologies to healthcare, access and human behavior decoding to assist the vulnerable groups.
 
-## Header 2
+## Papers
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*  **Guanhua ZHANG**, Minjing YU, Guo CHEN, Yiheng HAN, Dan ZHANG, Guozhen ZHAO, Yong-jin LIU, _A review of EEG features for emotion recognition (in Chinese)_, SCIENCE CHINA Information Sciences, Volume 49, Issue 9: 1097-1118, 2019. [Link](http://engine.scichina.com/publisher/scp/journal/SSI/49/9/10.1360/N112018-00337?slug=fulltext)
 
-### Header 3
+* Chengwen Zhang, Lei Zhang, and **Guanhua Zhang**. _QoS-aware mobile service selection algorithm_. Mobile Information Systems 2016, 2016. [Link](https://www.hindawi.com/journals/misy/2016/4968279/cta/)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> There are three other papers under review in IEEE Transactions on Affective Computing.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
