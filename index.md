@@ -8,7 +8,7 @@ I obtained my bachelor's degree in computer science and technology from the [Sch
 
 My research interests include human-computer interaction, ubiquitous computing, wearable sensing, affective computing and machine learning. I want to apply the above technologies to healthcare, access and human behavior decoding to assist the vulnerable groups.
 
-# Papers
+# Publications
 
 *  **Guanhua ZHANG**, Minjing YU, Guo CHEN, Yiheng HAN, Dan ZHANG, Guozhen ZHAO, Yong-jin LIU, _A review of EEG features for emotion recognition (in Chinese)_, SCIENCE CHINA Information Sciences, Volume 49, Issue 9: 1097-1118, 2019. [Link](http://engine.scichina.com/publisher/scp/journal/SSI/49/9/10.1360/N112018-00337?slug=fulltext)
 
