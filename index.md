@@ -19,7 +19,7 @@ My research interests include human-computer interaction, ubiquitous computing, 
 # Awards & Honors
 
 * **Gemalto Female Engineer Scholarship**, Tsinghua University, 2019.11  
-    (Scholarship for female master students)
+    (Scholarship for the 1st female master student in Institute)
 * **Outstanding Individual in Graduate Union of Department of Computer Science and Technology**, Tsinghua University, 2018.04 & 2019.04  
 * **The First Prize Scholarship**, Beijing University of Posts and Telecommunications, 2015.12  
     (Scholarship for top 5% undergraduate students)
