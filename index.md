@@ -10,7 +10,7 @@ My research interests include human-computer interaction, ubiquitous computing, 
 
 # Publications
 
-*  **Guanhua ZHANG**, Minjing YU, Guo CHEN, Yiheng HAN, Dan ZHANG, Guozhen ZHAO, Yong-jin LIU, _A review of EEG features for emotion recognition (in Chinese)_, SCIENCE CHINA Information Sciences, Volume 49, Issue 9: 1097-1118, 2019. [Link](http://engine.scichina.com/publisher/scp/journal/SSI/49/9/10.1360/N112018-00337?slug=fulltext)
+*  **Guanhua ZHANG**, Minjing YU, Guo CHEN, Yiheng HAN, Dan ZHANG, Guozhen ZHAO, Yong-jin LIU, _A review of EEG features for emotion recognition (in Chinese)_, SCIENTIA SINICA Informationis, Volume 49, Issue 9: 1097-1118, 2019. [Link](http://engine.scichina.com/publisher/scp/journal/SSI/49/9/10.1360/N112018-00337?slug=fulltext)
 
 * Chengwen Zhang, Lei Zhang, and **Guanhua Zhang**. _QoS-aware mobile service selection algorithm_. Mobile Information Systems 2016, 2016. [Link](https://www.hindawi.com/journals/misy/2016/4968279/cta/)
 
