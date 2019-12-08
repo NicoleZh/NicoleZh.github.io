@@ -19,16 +19,26 @@ My research interests include human-computer interaction, ubiquitous computing, 
 # Research Experience
 
 * **Tsinghua University Graphics & Geometric Computing Group** *, 2016 - Present
+
     An LSTM network for emotion recognition from multichannel electroencephalograph (EEG), Aug 2019 - Oct 2019
+    
     A sparse graph convolutional neural network for EEG-based emotion recognition, Feb 2018 - Aug 2019
+    
     Multi-target positive emotion recognition, Jan 2018 - Sep 2019
+    
     Review of EEG features for emotion recognition, May 2018 - Mar 2019
+    
     A real-time emotion detection system with EEG, Aug 2016 - Feb 2017
+    
 * **Chinese Academy of Sciences Engineering Psychology and Human Factors Laboratory** *, 2016 - Present
+
     Multi-person emotional and cognitive analysis, Sep 2019 - Present
+    
     A real-time emotion detection system with PPG, GSR and facial expression, Nov 2018
+    
 * **Beijing University of Posts and Telecommunications Network Technology Center** *, 2015 - 2016
-    Mobile service selection and recommendation, Sep 2015 - Feb 2016
+
+    Mobile service selection and recommendation, Sep 2015 - Feb 2016   
 
 # Awards & Honors
 
