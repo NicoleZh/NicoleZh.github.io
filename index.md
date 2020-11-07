@@ -19,7 +19,7 @@ My research interests include affective computing, wearable sensing and applied 
 
 # Research Experience
 
-* **Tsinghua University Graphics & Geometric Computing Group** *, 2016 - Present
+* **Tsinghua University Graphics & Geometric Computing Group** *, 2016 - 2020
 
     An LSTM network for emotion recognition from multichannel electroencephalograph (EEG), Aug 2019 - Oct 2019
     
@@ -31,9 +31,9 @@ My research interests include affective computing, wearable sensing and applied 
     
     A real-time emotion detection system with EEG, Aug 2016 - Feb 2017
     
-* **Chinese Academy of Sciences Engineering Psychology and Human Factors Laboratory** *, 2016 - Present
+* **Chinese Academy of Sciences Engineering Psychology and Human Factors Laboratory** *, 2016 - 2020
 
-    Multi-person emotional and cognitive analysis, Sep 2019 - Present
+    Multi-person emotional and cognitive analysis, Sep 2019 - Jan 2020
     
     A real-time emotion detection system with PPG, GSR and facial expression, Nov 2018
     
