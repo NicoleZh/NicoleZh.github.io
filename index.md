@@ -17,7 +17,7 @@ My research interests include affective computing, wearable sensing and applied 
 
 * Chengwen Zhang, Lei Zhang, and **Guanhua Zhang**. _QoS-aware mobile service selection algorithm_. Mobile Information Systems 2016, 2016. [Link](https://www.hindawi.com/journals/misy/2016/4968279/cta/)
 
-> There are one other paper under review in IEEE Transactions on Affective Computing.
+> There is one other paper under review in IEEE Transactions on Affective Computing.
 
 # Research Experience
 
