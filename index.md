@@ -23,34 +23,34 @@ My research interests include affective computing, wearable sensing and applied 
 
 * **Tsinghua University Graphics & Geometric Computing Group**, _2016 - 2020_
 
-    An LSTM network for emotion recognition from multichannel electroencephalograph (EEG), Aug 2019 - Oct 2019
+    An LSTM network for emotion recognition from multichannel electroencephalograph (EEG), 2019
     
-    A sparse graph convolutional neural network for EEG-based emotion recognition, Feb 2018 - Aug 2019
+    A sparse graph convolutional neural network for EEG-based emotion recognition, 2018 - 2019
     
-    Multi-target positive emotion recognition, Jan 2018 - Sep 2019
+    Multi-target positive emotion recognition, 2018 - 2019
     
-    Review of EEG features for emotion recognition, May 2018 - Mar 2019
+    Review of EEG features for emotion recognition, 2018 - 2019
     
-    A real-time emotion detection system with EEG, Aug 2016 - Feb 2017
+    A real-time emotion detection system with EEG, 2016 - 2017
     
 * **Chinese Academy of Sciences Engineering Psychology and Human Factors Laboratory**, _2016 - 2020_
 
-    Multi-person emotional and cognitive analysis, Sep 2019 - Jan 2020
+    Multi-person emotional and cognitive analysis, 2019 - 2020
     
-    A real-time emotion detection system with PPG, GSR and facial expression, Nov 2018
+    A real-time emotion detection system with PPG, GSR and facial expression, 2018
     
 * **Beijing University of Posts and Telecommunications Network Technology Center**, _2015 - 2016_
 
-    Mobile service selection and recommendation, Sep 2015 - Feb 2016   
+    Mobile service selection and recommendation, 2015 - 2016   
 
 # Awards & Honors
 
-* **Gemalto Scholarship**, Tsinghua University, 2019.11  
+* **Gemalto Scholarship**, Tsinghua University, 2019 
     (The highest amount comprehensive scholarship in Department)
-* **Outstanding Individual in Graduate Union of Department of Computer Science and Technology**, Tsinghua University, 2018.04 & 2019.04  
-* **The First Prize Scholarship**, Beijing University of Posts and Telecommunications, 2015.12  
+* **Outstanding Individual in Graduate Union of Department of Computer Science and Technology**, Tsinghua University, 2018 & 2019  
+* **The First Prize Scholarship**, Beijing University of Posts and Telecommunications, 2015  
     (Scholarship for top 5% undergraduate students)
-* **The Second Prize Scholarship**, Beijing University of Posts and Telecommunications, 2016.12 & 2014.11  
+* **The Second Prize Scholarship**, Beijing University of Posts and Telecommunications, 2014 & 2016  
     (Scholarship for top 10% undergraduate students)
-* **Merit Student**, Beijing University of Posts and Telecommunications, 2016.12 & 2015.12 & 2014.11  
+* **Merit Student**, Beijing University of Posts and Telecommunications, 2014 & 2015 & 2016 
     (Awarded to top 3% undergraduate students)
