@@ -25,7 +25,7 @@ My research interests include affective computing, wearable sensing and applied 
     
     A sparse graph convolutional neural network for EEG-based emotion recognition
 
-    An LSTM network for emotion recognition from multichannel electroencephalograph (EEG)
+    An LSTM network for emotion recognition from multichannel EEG
     
     Multi-target positive emotion recognition
     
