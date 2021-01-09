@@ -9,6 +9,8 @@ My research interests include affective computing, wearable sensing and applied 
 
 # Publications
 
+* **Guanhua Zhang**, Minjing Yu, Yong-jin Liu, Guozhen Zhao, Dan Zhang, Wenming Zheng, _SparseDGCNN: Recognizing Emotion from Multichannel EEG Signals_, IEEE Transactions on Affective Computing (IEEE TAFFC), Accepted, 2021.
+
 * Guozhen Zhao, Yulin Zhang, **Guanhua Zhang**, Dan Zhang, and Yong-jin Liu, _Multi-target Positive Emotion Recognition from EEG Signals_, IEEE Transactions on Affective Computing (IEEE TAFFC), doi: 10.1109/TAFFC.2020.3043135, 2020. [Link](https://ieeexplore.ieee.org/document/9286502)
 
 * Xiaobing Du, Xiaoming Deng, **Guanhua Zhang**, Jinyao Li, Yu-Kun Lai, Guozhen Zhao, Cuixia Ma, Yong-jin Liu, and Hongan Wang, _An Efficient LSTM Network for Emotion Recognition from Multichannel EEG Signals_. IEEE Transactions on Affective Computing (IEEE TAFFC), doi: 10.1109/TAFFC.2020.3013711, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9154557?casa_token=20oe-gZwAkAAAAAA:6X5Uj-iorve7LEoOP9x3zSWHW0M6TBaisb1ED_dyRakloLGX1U0N5LkgHzni7322TJgP17g)
@@ -16,8 +18,6 @@ My research interests include affective computing, wearable sensing and applied 
 *  **Guanhua ZHANG**, Minjing YU, Guo CHEN, Yiheng HAN, Dan ZHANG, Guozhen ZHAO, Yong-jin LIU, _A review of EEG features for emotion recognition (in Chinese)_, SCIENTIA SINICA Informationis, Volume 49, Issue 9: 1097-1118, 2019. [Link](http://engine.scichina.com/publisher/scp/journal/SSI/49/9/10.1360/N112018-00337?slug=fulltext)
 
 * Chengwen Zhang, Lei Zhang, and **Guanhua Zhang**. _QoS-aware mobile service selection algorithm_. Mobile Information Systems 2016, 2016. [Link](https://www.hindawi.com/journals/misy/2016/4968279/cta/)
-
-> There is one other paper under review in IEEE Transactions on Affective Computing.
 
 # Research Experience
 
