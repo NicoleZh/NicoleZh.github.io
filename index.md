@@ -9,7 +9,7 @@ My research interests include affective computing, wearable sensing and applied 
 
 # Publications
 
-* **Guanhua Zhang**, Minjing Yu, Yong-jin Liu, Guozhen Zhao, Dan Zhang, Wenming Zheng, _SparseDGCNN: Recognizing Emotion from Multichannel EEG Signals_, IEEE Transactions on Affective Computing (IEEE TAFFC), Accepted, 2021.
+* **Guanhua Zhang**, Minjing Yu, Yong-jin Liu, Guozhen Zhao, Dan Zhang, Wenming Zheng, _SparseDGCNN: Recognizing Emotion from Multichannel EEG Signals_, IEEE Transactions on Affective Computing (IEEE TAFFC), doi: 10.1109/TAFFC.2021.3051332, 2021. [Link](https://doi.org/10.1109/TAFFC.2021.3051332)
 
 * Guozhen Zhao, Yulin Zhang, **Guanhua Zhang**, Dan Zhang, and Yong-jin Liu, _Multi-target Positive Emotion Recognition from EEG Signals_, IEEE Transactions on Affective Computing (IEEE TAFFC), doi: 10.1109/TAFFC.2020.3043135, 2020. [Link](https://ieeexplore.ieee.org/document/9286502)
 
