@@ -3,9 +3,11 @@ layout: default
 ---
 # About Me
 
-I am now a PhD student in the [Perceptual User Interfaces group](https://perceptualui.org), [Institute for Visualisation and Interactive Systems](https://www.vis.uni-stuttgart.de) at [University of Stuttgart](https://www.uni-stuttgart.de), supervised by [Professor Andreas Bulling](https://perceptualui.org/people/bulling/). I got my master's degree in computer science and technology from [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018/index.html), supervised by [Professor Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm) in June 2020, and a bachelor's degree in computer science and technology from the [School of Computer Science](https://scs.bupt.edu.cn/) at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in June 2017.
+I am now a PhD student in the [Perceptual User Interfaces group](https://perceptualui.org), Institute for Visualisation and Interactive Systems at **University of Stuttgart**, supervised by [Prof. Andreas Bulling](https://perceptualui.org/people/bulling/). I also joined **the International Max Planck Research School for Intelligent Systems** [(IMPRS-IS)](https://imprs.is.mpg.de) since February 2021.
 
-My research interests include affective computing, wearable sensing and applied machine learning. I would like to decode human behaviors and cognitions, and design personalized interfaces.
+I got my master's degree in computer science and technology from Department of Computer Science and Technology at **Tsinghua University**, supervised by [Prof. Yong-jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm) in June 2020, and a bachelor's degree in computer science and technology from the School of Computer Science at **Beijing University of Posts and Telecommunications** in June 2017.
+
+My research interests include Computational Interaction, Affective Computing and Applied Machine Learning. I would like to decode human behaviors and cognitions, and design personalized interfaces.
 
 # Publications
 
@@ -54,3 +56,7 @@ My research interests include affective computing, wearable sensing and applied 
     (Scholarship for top 10% undergraduate students)
 * **Merit Student**, Beijing University of Posts and Telecommunications, 2014 & 2015 & 2016 
     (Awarded to top 3% undergraduate students)
+    
+# Scientific Activities
+
+* Student Volunteer: ETRA 2021
